@@ -18,22 +18,11 @@ Here are some ideas to get you started:
 
 ❤️: React, React Native, Javascript
 
-## 😄 About me 
-
-## ✌️ 
-
-## 🔥
-
-## 🎥
-
-## 🎬 
+## 😄✌️🔥🎥🎬 
 <span>
   <a href="https://youtu.be/mpwxguP_H5E">
     <img src="https://img.youtube.com/vi/mpwxguP_H5E/0.jpg" alt="Как эффективно вести блог. Сравнение Hugo, Gatsby, Jekyll, Pelican" height="225px">
   </a>
 </span>
 
-## - 💬 You can ask me anything you want on Telegram - [@padjia](https://t.me/padjia)
-## - 📫 
-## - 📝 
-
+## - 💬 You can ask me anything you want on Telegram - [@padjia](https://t.me/padjia) 📫 📝 
