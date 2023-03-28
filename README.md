@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 😄 About me 
 
-✌️ 
+## ✌️ 
 
-🔥
+## 🔥
 
-🎥
+## 🎥
 
 ## 🎬 
 <span>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   </a>
 </span>
 
-- 💬 You can ask me anything you want on Telegram - [@padjia](https://t.me/padjia);
-- 📫 
-- 📝 
+## - 💬 You can ask me anything you want on Telegram - [@padjia](https://t.me/padjia);
+## - 📫 
+## - 📝 
 
