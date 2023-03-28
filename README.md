@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+ https://github.com/Merlinov/TOTEM
+ https://github.com/Merlinov/zmk-config
 
 ❤️: React, React Native, Javascript
 
