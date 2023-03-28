@@ -14,30 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
 
-Hey, I'm Dmitry, Technical Product Manager. Falling in love with tech. Сan convert coffee to code. For the last few years I have been creating various IT products. 
-
-❤️: Golang, React, React Native, Javascript, C++, Rust, Swift
-
-Join my Telegram chanel - [@johenews](https://t.me/johenews)
-
-My LinkedIn - https://www.linkedin.com/in/devpew/
+❤️: React, React Native, Javascript
 
 ## 😄 About me 
 
-✌️ My name is Dmitry, I am Technical Product Manager. Geek and a lover of everything related to technology. Have a degree in information security.
+✌️ 
 
-Right now I'm working at B2Broker.com, I'm a product lead of B2BinPay it’s a cryptocurrency payment provider. It helps send, receive, store, exchange and accept cryptocurrencies for any store or exchanges. Bitcoin, Ether, Ripple`s XRP, Bitcoin Cash, Litecoin & more as a payment option. And it may be converted to fiat, to protect client from market volatility.
+🔥
 
-Inside this project I work on different blockchains, coins, stablecoins, liquid tokens.  
+🎥
 
-Before that I worked at Paxful on Lightning bitcoin network and Staking for ETH 2.0
-
-🔥 I’m currently working on my finance application, there you can track your income and expenses, as well as have complete statistics on your investments. And also the application recommends which assets you should buy and recommend proportion for stocks and bonds in the portfolio at the moment.
-
-🎥 Also I write articles on my blog and Telegram channel, and making videos on my YouTube channel
-
-## 🎬 Johenews - YouTube Channel 
+## 🎬 
 <span>
   <a href="https://youtu.be/mpwxguP_H5E">
     <img src="https://img.youtube.com/vi/mpwxguP_H5E/0.jpg" alt="Как эффективно вести блог. Сравнение Hugo, Gatsby, Jekyll, Pelican" height="225px">
@@ -59,7 +48,7 @@ Before that I worked at Paxful on Lightning bitcoin network and Staking for ETH 
   </a>
 </span>
 
-- 💬 You can ask me anything you want on Telegram - [@devpew](https://t.me/devpew);
-- 📫 Or Twitter [@devpew](https://twitter.com/devpew);
-- 📝 [Resume](https://devpew.com/cv)
+- 💬 You can ask me anything you want on Telegram - [@padjia](https://t.me/padjia);
+- 📫 
+- 📝 
 
