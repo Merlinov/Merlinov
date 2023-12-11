@@ -14,9 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- https://github.com/Merlinov/zmk-config <br>
- https://github.com/Merlinov/zmk
- https://nickcoutsos.github.io/keymap-editor/
+ <span>
+  <a href="https://github.com/Merlinov/zmk-config">
+    https://github.com/Merlinov/zmk-config
+  </a>
+    <a href="https://github.com/Merlinov/zmk">
+    https://github.com/Merlinov/zmk
+  </a>
+    <a href="https://nickcoutsos.github.io/keymap-editor/">
+    https://nickcoutsos.github.io/keymap-editor/
+  </a>
+</span>
 
 ❤️: React, React Native, Javascript
 
