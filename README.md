@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <span>
+ <span style="display: flex;">
   <a href="https://github.com/Merlinov/zmk-config">
     https://github.com/Merlinov/zmk-config
   </a>
