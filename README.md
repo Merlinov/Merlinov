@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a><br>
 </span>
 
-❤️: React, React Native, Javascript
+❤️: golang +_+
 <!--
 ## 😄✌️🔥🎥🎬 📫 📝 
 
