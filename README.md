@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <span>
-  <a href="https://github.com/Merlinov/zmk-config">
-    https://github.com/Merlinov/zmk-config
-  </a><br>
-    <a href="https://github.com/Merlinov/zmk">
-    https://github.com/Merlinov/zmk
-  </a><br>
-    <a href="https://nickcoutsos.github.io/keymap-editor/">
+      <a href="https://nickcoutsos.github.io/keymap-editor/">
     https://nickcoutsos.github.io/keymap-editor/
   </a><br>
 </span>
